@@ -1,2 +1,7 @@
-# Tarea-n-3
-tarea número 3 para el laboratorio de arquitectura de software
+# api_example
+Tarea n°3
+# Entorno de desarrollo
+- Nodejs
+# Como correr
+- instalar express: npm install express --save
+- iniciar: node server/server
